@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xianli Feng<br/>（冯献礼）"
+  name             : "Xianli Feng（冯献礼）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "<img src='./images/NUDT.jpg' style='width: 8em;'>"
   location         : "Changsha, China"
