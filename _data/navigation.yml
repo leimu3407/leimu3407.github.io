@@ -15,9 +15,6 @@ main:
   - title: "Repositories"
     url: "/#-repositories"
 
-  - title: "Reports"
-    url: "/#-reports"
-
   - title: "Educations"
     url: "/#-educations"
 
